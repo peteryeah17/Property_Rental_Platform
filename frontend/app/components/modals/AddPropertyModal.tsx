@@ -142,7 +142,7 @@ const AddPropertyModal = () => {
 
                     <CustomButton
                         label='Previous'
-                        className='mb-2 bg-black hover:bg-gray-800'
+                        className='mb-2 bg-airbnb-dark hover:bg-violet'
                         onClick={() => setCurrentStep(1)}
                     />
 
@@ -199,7 +199,7 @@ const AddPropertyModal = () => {
 
                     <CustomButton
                         label='Previous'
-                        className='mb-2 bg-black hover:bg-gray-800'
+                        className='mb-2 bg-airbnb-dark hover:bg-violet'
                         onClick={() => setCurrentStep(2)}
                     />
 
@@ -221,7 +221,7 @@ const AddPropertyModal = () => {
 
                     <CustomButton
                         label='Previous'
-                        className='mb-2 bg-black hover:bg-gray-800'
+                        className='mb-2 bg-airbnb-dark hover:bg-violet'
                         onClick={() => setCurrentStep(3)}
                     />
 
@@ -268,7 +268,7 @@ const AddPropertyModal = () => {
 
                     <CustomButton
                         label='Previous'
-                        className='mb-2 bg-black hover:bg-gray-800'
+                        className='mb-2 bg-airbnb-dark hover:bg-violet'
                         onClick={() => setCurrentStep(4)}
                     />
 

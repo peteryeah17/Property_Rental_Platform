@@ -51,7 +51,7 @@ const Categories: React.FC<CategoriesProps> = ({
                         height={20}
                     />
 
-                    <span className='text-xs'>lakefront</span>
+                    <span className='text-xs'>Lakefront</span>
                 </div>
 
                 <div 
@@ -65,7 +65,7 @@ const Categories: React.FC<CategoriesProps> = ({
                         height={20}
                     />
 
-                    <span className='text-xs'>pool</span>
+                    <span className='text-xs'>Pools</span>
                 </div>
             </div>
         </>
